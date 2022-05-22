@@ -1,8 +1,9 @@
-# first python program
+# first python prograa
 def hello(msg):
     #works only on python
     #3.7+
-    print(f"hello {msg}!")
+    print(f"hello {msg}!"
+
     
-if __name__ "__main__":
+if __name__ "__main__" :
         hello("world")
